@@ -3360,9 +3360,9 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/_1.jpg", id:"_1"},
-		{src:"images/_2.jpg", id:"_2"},
-		{src:"images/_3.jpg", id:"_3"}
+		{src:"./images/_1.jpg", id:"_1"},
+		{src:"./images/_2.jpg", id:"_2"},
+		{src:"./images/_3.jpg", id:"_3"}
 	],
 	preloads: []
 };
