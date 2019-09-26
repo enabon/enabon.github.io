@@ -3362,7 +3362,7 @@ lib.properties = {
 	manifest: [
 		{src:"images/1.jpg", id:"_1"},
 		{src:"images/2.jpg", id:"_2"},
-		{src:"images/s3.jpg", id:"_3"}
+		{src:"images/3.jpg", id:"_3"}
 	],
 	preloads: []
 };
